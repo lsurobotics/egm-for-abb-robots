@@ -1,6 +1,8 @@
 # egm-for-abb-robots
 :gear: Using Externally Guided Motion (EGM) to control ABB robots in C#. 
 
+Author: Felipe Fronchetti (ffronchetti@lsu.edu)
+
 _Last update: 01/07/2024_
 
 :new: Our latest application for HoloLens 2 using EGM is now available at: https://github.com/fronchetti/roboart
